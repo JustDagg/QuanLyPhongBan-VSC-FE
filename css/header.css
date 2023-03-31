@@ -1,0 +1,23 @@
+.navbar .home-logo {
+    display: inline-block;
+    height: 30px;
+    width: 12px;
+    line-height: 50px;
+    text-align: center;
+    border-right: 2px solid black;
+    cursor: pointer;
+}
+
+#navbar img {
+    height: 30px;
+    cursor: pointer;
+}
+
+#navbar .full-name,
+#navbar .sign-out {
+    display: inline-block;
+    cursor: pointer;
+}
+
+
+
